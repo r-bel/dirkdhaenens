@@ -1,0 +1,18 @@
+baseURL = 'localhost'
+languageCode = 'en-us'
+title = 'Dirk Dhaenens'
+theme = "hello-friend-ng"
+paginate = 0
+
+[params]
+author = "Dirk Dhaenens"
+homeSubtitle = "full stack developer ~ software architect"
+description = "Dirk Dhaenens personal site and blog"
+keywords = "blog,developer,personal"
+
+[params.header]
+enabled  = false
+
+[[params.social]]
+name = "linkedin"
+url = "https://www.linkedin.com/in/dirkdhaenens"
