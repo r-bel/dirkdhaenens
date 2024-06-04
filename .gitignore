@@ -8,8 +8,10 @@
 # Ignore everything in the root except the "content" directory and "static"
 /*
 !.gitignore
+!.gitmodules
 !content/
 !*.toml
+!go*
 !static/
 !assets/
 

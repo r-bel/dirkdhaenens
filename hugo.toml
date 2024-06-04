@@ -1,8 +1,8 @@
 baseURL = 'localhost'
 languageCode = 'en-us'
 title = 'Dirk Dhaenens'
-theme = "hello-friend-ng"
-paginate = 0
+theme = "github.com/rhazdon/hugo-theme-hello-friend-ng"
+paginate = 10
 
 [params]
 author = "Dirk Dhaenens"
@@ -11,8 +11,12 @@ description = "Dirk Dhaenens personal site and blog"
 keywords = "blog,developer,personal"
 
 [params.header]
-enabled  = false
+enabled = false
 
 [[params.social]]
 name = "linkedin"
 url = "https://www.linkedin.com/in/dirkdhaenens"
+
+[module]
+[[module.imports]]
+path = 'github.com/rhazdon/hugo-theme-hello-friend-ng'
