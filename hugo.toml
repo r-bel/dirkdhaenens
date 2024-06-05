@@ -1,17 +1,14 @@
-baseURL = 'localhost'
+baseURL = 'https://www.dirkdhaenens.com/'
 languageCode = 'en-us'
 title = 'Dirk Dhaenens'
 theme = "github.com/rhazdon/hugo-theme-hello-friend-ng"
-paginate = 10
+paginate = 1
 
 [params]
 author = "Dirk Dhaenens"
 homeSubtitle = "full stack developer ~ software architect"
 description = "Dirk Dhaenens personal site and blog"
 keywords = "blog,developer,personal"
-
-[params.header]
-enabled = false
 
 [[params.social]]
 name = "linkedin"
