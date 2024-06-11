@@ -2,9 +2,11 @@
 !.gitignore
 !content/
 !*.toml
-!go*
+go*
 !static/
 !assets/
+!config/
 .DS_Store
-content/*
+!content/*
 themes/*
+/_vendor

@@ -1,0 +1,35 @@
+[home]
+fullCover = false
+centerHeadline = false
+sections = ["blog"]
+  [home.feature]
+  orientation = "horizontal"
+  color = "secondary"
+  width = 8
+
+[navigation]
+search = false
+color = "body"
+logo = false
+
+[main]
+enableDarkMode = true
+color = "secondary"
+endorse = false
+
+[style]
+primary = "#d43900"
+secondary = "#6c757d"
+success = "#198754"
+info = "#0dcaf0"
+warning = "#ffc107"
+danger = "#dc3545"
+light = "#f8f9fa"
+dark = "#212529"
+
+[social]
+name = "LinkedIn"
+pre = "fab linkedin"
+title = ""
+caption = ""
+
