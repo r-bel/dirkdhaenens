@@ -9,3 +9,7 @@ path = 'github.com/gethinode/hinode'
 [[menus.social]]
 pre = "fab linkedin"
 url = "https://www.linkedin.com/in/dirkdhaenens"
+
+[services]
+  [services.googleAnalytics]
+    ID = "G-4Z4N23F7XW"
