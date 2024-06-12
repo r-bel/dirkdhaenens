@@ -1,11 +1,14 @@
+[favicon]
+logo = "img/favicon-32x32.png"
+
 [home]
 fullCover = false
 centerHeadline = false
 sections = ["blog"]
-  [home.feature]
-  orientation = "horizontal"
-  color = "secondary"
-  width = 8
+[home.feature]
+orientation = "horizontal"
+color = "secondary"
+width = 8
 
 [navigation]
 search = false
